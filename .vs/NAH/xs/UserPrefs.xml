@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{E0F1D85C-3904-4E18-9864-4A651503B7EE}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NAH/Default.aspx">
+    <Files>
+      <File FileName="NAH/Sales/Site.master" Line="31" Column="27" />
+      <File FileName="NAH/Sales/AgentDashboard.aspx" Line="26" Column="21" />
+      <File FileName="Source Not Found" />
+      <File FileName="NAH/Web.config" Line="7" Column="41" />
+      <File FileName="NAH/packages.config" Line="1" Column="1" />
+      <File FileName="NAH/Default.aspx" Line="21" Column="11" />
+      <File FileName="NAH/Global.asax" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NAH" expanded="True">
+            <Node name="NAH" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Sales" expanded="True" />
+              <Node name="Default.aspx" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.NAH PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
